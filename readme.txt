@@ -1,2 +1,2 @@
-this is a readme shit
+this is a readme shit£¬isnt it?
 
