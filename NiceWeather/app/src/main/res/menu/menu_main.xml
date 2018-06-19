@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activity.MainActivity">
+
+    <item
+        android:id="@+id/action_left"
+        android:orderInCategory="100"
+        android:title="Left"
+        android:icon="@drawable/sunny"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_right"
+        android:orderInCategory="100"
+        android:icon="@drawable/cloudy"
+        android:title="Right"
+        app:showAsAction="never" />
+</menu>
