@@ -1,2 +1,2 @@
-this is a readme shit£¬isnt it?
+This is my first android app . 
 
